@@ -1,0 +1,22 @@
+/*This is a demo file of css */
+
+p{
+	background-color:red;
+	color:skyblue;
+}
+#demo{
+	font-size:30px;
+	text-transform: uppercase;
+}
+
+
+/*
+	In the above example
+
+	 p is property
+
+	 background-color is property name
+
+	 red is property value 
+
+*/
