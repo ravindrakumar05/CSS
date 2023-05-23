@@ -3,3 +3,5 @@ Concept 1:
   TYPES OF CSS
 Concept 2:
   TYPES OF SELECTORS 
+Concept 3:
+  COLORS
