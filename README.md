@@ -11,4 +11,14 @@ Concept 6:
   BORDERS 
 Concept 7:
   BOX MODEL
+Concept 8:
+  POSITIONS
+Concpet 9:
+  FLEX BOX
+Concpet 10:
+  GRID
+Concept 11:
+  TRANSITIONS 
+Concept 12:
+  ANIMATIONS 
 
